@@ -241,7 +241,7 @@ export const productsData: Product[] = [
       { name: 'Rosa Cyber', hex: '#e8a0c0', imageUrl: '/images/14-pink.webp' },
       { name: 'Marrom Texturizado', hex: '#5c4d40', imageUrl: '/images/14-brown.webp' },
     ],
-    priceDebit: 'R$ 3.297,00',
+    priceDebit: 'R$ 3.297,90',
     priceCredit: '12x de R$ 274,75',
     paymentNote: officialDisclaimer,
     hasNFC: true
