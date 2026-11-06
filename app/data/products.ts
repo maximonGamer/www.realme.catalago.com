@@ -469,67 +469,8 @@ export const productsData: Product[] = [
     priceCredit: '12x de R$ 187,25',
     paymentNote: officialDisclaimer,
     hasNFC: false
-  },
-  {
-    id: '12-5g-256-6',
-    series: 'Linha Number',
-    name: '12 5G 256/6',
-    highlight: 'A porta de entrada elegante para o 5G.',
-    specs: [
-      { label: 'Processador', value: 'Dimensity 6100+ 5G' },
-      { label: 'Tela', value: '6.72” 120Hz FHD+' },
-      { label: 'Memória', value: '6GB RAM | 256GB ROM' },
-      { label: 'Bateria', value: '5000mAh + 45W' }
-    ],
-    colors: [
-      { name: 'verde luxo', hex: '#2fa86c', imageUrl: '/images/12-verde.webp' },
-      { name: 'roxo Luxo', hex: '#a175be', imageUrl: '/images/12-roxo.webp' }
-    ],
-    priceDebit: 'R$ 2.597,00',
-    priceCredit: '12x de R$ 216,41',
-    paymentNote: officialDisclaimer,
-    hasNFC: true
-  },
-  {
-    id: '12-5g-512-8',
-    series: 'Linha Number',
-    name: '12 5G 512/8',
-    highlight: 'Alto armazenamento para não faltar espaço.',
-    specs: [
-      { label: 'Processador', value: 'Dimensity 6100+ 5G' },
-      { label: 'Tela', value: '6.72” 120Hz FHD+' },
-      { label: 'Memória', value: '8GB RAM | 512GB ROM' },
-      { label: 'Bateria', value: '5000mAh + 45W' }
-    ],
-    colors: [
-      { name: 'verde', hex: '#2fa86c', imageUrl: '/images/12-verde.webp' },
-      { name: 'Bege Luxo', hex: '#a175be', imageUrl: '/images/12-roxo.webp' }
-    ],
-    priceDebit: 'R$ 3.047,00',
-    priceCredit: '12x de R$ 253,91',
-    paymentNote: officialDisclaimer,
-    hasNFC: true
-  },
-  {
-    id: '13-plus-256-8',
-    series: 'Linha Number',
-    name: '13 + 256/8',
-    highlight: 'Desempenho Gamer focado em E-Sports.',
-    specs: [
-      { label: 'Processador', value: 'Dimensity 7300 Energy' },
-      { label: 'Tela', value: '6.67” 120Hz OLED E-Sports' },
-      { label: 'Memória', value: '8GB RAM | 256GB ROM' },
-      { label: 'Bateria', value: '5000mAh + 80W' }
-    ],
-    colors: [
-      { name: 'Preto Velocidade', hex: '#1c1c1e', imageUrl: '/images/Preto Velocidade.webp' },
-      { name: 'Amarelo Speed', hex: '#FFDE00', imageUrl: '/images/Amarelo Speed.webp' }
-    ],
-    priceDebit: 'R$ 3.047,00',
-    priceCredit: '12x de R$ 253,91',
-    paymentNote: officialDisclaimer,
-    hasNFC: true
-  },
+  }
+  ,
   {
     id: '14-256-12',
     series: 'Linha Number',
